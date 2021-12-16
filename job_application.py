@@ -13,6 +13,8 @@ data = {
     'name': 'Youngil Kim',
     'email': 'youngilkim822@gmail.com',
     'resume': 'https://drive.google.com/file/d/1FlzUNXLCiKPuXLHyzWifHxPcIZ4Eo5Iq/view?usp=sharing',
+    "phone": "917-517-0393",
+    "job_id": "0aa2328f-611b-4bfe-8920-0188819dfb96",
     'github': 'https://github.com/rladuddlf',
     'linkedin': 'https://www.linkedin.com/in/young-il-kim-237944213/',
     'youtube': 'https://www.youtube.com/channel/UCYLItBQe5mREFJNmZe5qVBw',
